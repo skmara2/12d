@@ -14,6 +14,6 @@ Eksportē veiktās izmaiņas uz GitHub repozitoriju<br>
 Pārliecinies, ka risinājums ir redzams GitHub repozitorijā
 
 # papilduzdevums
-Lietotājs ievada riņķa rādiusu un vienādsānu taisnleņķa trijstūra hipotenūzas garumu centimetros.
-Sastādīt programmas kodu, kas aprēķina, par cik kvadrātcentimetriem riņķa laukums ir lielāks nekā trijstūra laukums.
+Lietotājs ievada riņķa rādiusu un vienādsānu taisnleņķa trijstūra hipotenūzas garumu centimetros.<br>
+Sastādīt programmas kodu, kas aprēķina, par cik kvadrātcentimetriem riņķa laukums ir lielāks nekā trijstūra laukums.<br>
 Atbildi noapaļot līdz vienam ciparam aiz komata un izvadīt ar salikto izvadi.
