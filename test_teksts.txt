@@ -1,0 +1,4 @@
+pievienoju 1.rindu
+pievienoju 2.rindu
+pievienoju 3.rindu
+pievienoju 4.rindu
